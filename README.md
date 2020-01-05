@@ -1,3 +1,9 @@
-# inkbutton
-好看漂亮的网页特效，水墨动画
-在线演示：https://clatterrr.github.io/inkbutton/index.html
+我$x^2$烂到
+$$
+x^2 + y^2
+$$
+
+
+非常棒$y_1$
+
+我的
